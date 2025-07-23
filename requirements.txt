@@ -1,0 +1,5 @@
+pdfminer.six
+pytesseract
+pdf2image
+Pillow
+PyMuPDF
